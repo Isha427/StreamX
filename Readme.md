@@ -67,7 +67,7 @@ To set up the project locally, follow these steps:
 
 For any inquiries or issues, feel free to contact the project maintainer:
 
-Utkrishta Sinha
-utkrishtasinha@gmail.com
+Isha Rastogi
+isharastogii123@gmail.com
 
 Happy coding! 🚀

@@ -19,7 +19,7 @@ Stream-it is a personal project aimed at creating a scalable MERN (MongoDB, Expr
 
 ## GitHub Repository
 
-The project's source code is hosted on GitHub. You can find the repository [here](https://github.com/utkrishta24/Stream-it/).
+The project's source code is hosted on GitHub. You can find the repository [here](https://github.dev/Isha427/StreamX).
 
 ## Features
 
